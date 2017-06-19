@@ -6,7 +6,7 @@ PreParseResources:
 AutoStartResources:
     - chat
     - spawnmanager
-    - fivem-map-skater
+    - fivem-map-purge
     - baseevents
     - rconlog
     - hardcap # prevents the game from breaking
